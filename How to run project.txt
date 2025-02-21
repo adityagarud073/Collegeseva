@@ -1,0 +1,14 @@
+
+open each folder i.e frontend, backend in seperate vs code window
+
+
+For frontend
+
+1) npm start
+
+
+For backend
+
+2) node server.js
+
+
